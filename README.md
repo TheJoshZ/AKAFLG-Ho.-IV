@@ -1,5 +1,6 @@
 # AKAFLG-Ho.-IV
- 
+![](images/fun1.png)
+
 ## 1.0 File descriptions:
 
 ### 1.1 Airfoils
