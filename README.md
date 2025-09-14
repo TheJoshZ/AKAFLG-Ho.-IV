@@ -1,5 +1,15 @@
 # AKAFLG-Ho.-IV
-![](images/fun1.png)
+
+<p float="left">
+  <img src="images/fun1.png" width="400" />
+</p>
+
+<p float="left">
+  <img src="images/1.png" width="250" />
+  <img src="images/2.png" width="250" />
+  <img src="images/3.png" width="250" />
+</p>
+
 
 ## 1.0 File descriptions:
 
