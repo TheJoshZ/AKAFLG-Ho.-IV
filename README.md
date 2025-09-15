@@ -28,7 +28,11 @@ Data from the horton overlayed with MIL STD 1797A for catagory B flight phases (
 ## 1.5 MIL-F-8785C data
 Data from the horton overlayed with MIL-F-8785C for catagory B flight phases (cruse), showing level 1 and level 2 (details in folder)
 
-
-
+## 1.0 Digital Mock Up
+![](images/whole.png)
+<p float="left">
+  <img src="images/loft1.png" width="250" />
+  <img src="images/loft2.png" width="250" />
+</p>
 
 
