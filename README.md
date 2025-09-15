@@ -31,8 +31,8 @@ Data from the horton overlayed with MIL-F-8785C for catagory B flight phases (cr
 ## 1.0 Digital Mock Up
 ![](images/whole.png)
 <p float="left">
-  <img src="images/loft1.png" width="350" />
-  <img src="images/loft2.png" width="350" />
+  <img src="images/loft1.png" width="550" />
+  <img src="images/loft2.png" width="550" />
 </p>
 
 
